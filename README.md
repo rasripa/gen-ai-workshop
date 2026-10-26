@@ -1,1 +1,1 @@
-# gen-ai-workshop
+# gen-ai-workshop for internal SAs
